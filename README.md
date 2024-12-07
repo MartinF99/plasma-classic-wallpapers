@@ -15,4 +15,19 @@ or use
 	sudo make install
 
 
+### Packages
 
+I provide packages for opensuse tumbleweed and archlinux
+
+#### Opensuse Tumbleweed
+- Add the repo with
+
+        sudo zypper ar https://download.opensuse.org/repositories/home:/MartinF99/openSUSE_Tumbleweed/ martinf99_home
+
+- install the package 
+
+    sudo zypper in plasma-classic-wallpapers
+
+#### Archlinux
+
+    plasma-classic-wallpapers is available via the aur
